@@ -1,4 +1,4 @@
-Feature:As a user, I want to reach the pages I want by using the social media redirect icons of the site I shop on..
+Feature:As a user, I want to reach the pages I want by using the social media redirect icons of the site I shop on...
 
   Scenario:The user accesses the relevant pages through redirect icons.
     Given Go to "url"
